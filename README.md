@@ -49,4 +49,6 @@ All the processing logic is in main.py. Txt files in the repo are acting as test
 How to run
 -----------
 Navigate to your repo directory and run 
-```python main.py cmd_combo.txt
+```python
+python main.py cmd_combo.txt
+```
